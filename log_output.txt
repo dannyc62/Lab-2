@@ -1,0 +1,23 @@
+commit 6a36aa66505b0f0a6ee4bce91ed1cee762070136
+Author: DanielMariachi <63077744+DanielMariachi@users.noreply.github.com>
+Date:   Thu Apr 2 15:33:52 2020 -0700
+
+    Update plans.txt
+
+commit a6068e0e3047adc42eefd0d838539b249af3d248
+Author: dannyc62 <60717957+dannyc62@users.noreply.github.com>
+Date:   Thu Apr 2 15:32:27 2020 -0700
+
+    Update plans.txt
+
+commit 97cdb023d94a22e7994fde38c8088e895366d5b3
+Author: Kae Lombardo <kdlombardo@ucdavis.edu>
+Date:   Thu Apr 2 22:24:20 2020 +0000
+
+    Added plans.txt
+
+commit d6156502545808e653b7cddedf70940d757da01b
+Author: Kae <kaelom@users.noreply.github.com>
+Date:   Thu Apr 2 15:20:04 2020 -0700
+
+    Initial commit
